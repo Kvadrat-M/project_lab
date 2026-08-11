@@ -30,3 +30,8 @@ pip install -r requirements.txt
 ```bash
 python engine.py
 ```
+
+## Статус обучения
+- [x] Настройка локального окружения и SSH.
+- [x] Публикация проекта на GitHub.
+- [ ] Работа с ветками и Pull Requests.
